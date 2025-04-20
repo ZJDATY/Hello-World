@@ -19,9 +19,9 @@ http://223.110.242.142:6610/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道", CCTV8
 http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道", CCTV9
-http://223.110.242.157:6610/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9/1.m3u8
+http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-9-CQ/1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道", CCTV10
-http://223.110.242.137:6610/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10/1.m3u8
+http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-10-CQ/1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道", CCTV11
 http://223.110.242.195:6610/cntv/live1/n-cctv-11/n-cctv-11/1.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道", CCTV12
@@ -31,33 +31,33 @@ http://223.110.242.7/wh7f454c46tw74381344_700176703/ott.js.chinamobile.com/PLTV/
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道", CCTV14
 http://223.110.242.216:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14/1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道", CCTV15
-http://223.110.242.142:6610/cntv/live1/n-cctv-15/n-cctv-15/1.m3u8
+http://[2409:8087:20a1:20:3100:0:df6e:ff98]:6610/gitv/live1/G_CCTV-15-CQ/1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15_1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道", CCTV15
+http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-15-CQ/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道", CCTV16
 http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道", CCTV17
-http://223.110.242.150:6610/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17/1.m3u8
+http://223.110.242.151:6610/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17/1.m3u8
 
 #卫视高清/7个频道
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视高清",湖南卫视
-http://223.110.242.153:6610/jsyd/live1/G_HUNAN-MD/G_HUNAN-MD/1.m3u8
+http://223.110.242.150:6610/cntv/live1/hunanstv/hunanstv/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视高清",浙江卫视
-http://223.110.242.133:6610/jsyd/live1/G_ZHEJIANG-MD/G_ZHEJIANG-MD/1.m3u8
+http://223.110.242.153:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视高清",江苏卫视
-http://223.110.242.152:6610/jsyd/live1/G_JIANGSU-MD/G_JIANGSU-MD/1.m3u8
+http://223.110.242.204:6610/cntv/live1/jiangsustv/jiangsustv/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视高清",东方卫视
 http://223.110.242.197:6610/jsyd/live1/G_DONGFANG-MD/G_DONGFANG-MD/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视高清",北京卫视
-http://223.110.242.134:6610/jsyd/live1/G_BEIJING-MD/G_BEIJING-MD/1.m3u8
+http://223.110.242.195:6610/cntv/live1/beijingstv/beijingstv/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视高清",安徽卫视
-http://223.110.242.140:6610/jsyd/live1/G_ANHUI-MD/G_ANHUI-MD/1.m3u8
+http://223.110.242.204:6610/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv/1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视高清",辽宁卫视
 http://223.110.242.24/ott.js.chinamobile.com/PLTV/1/224/3221227485/index.m3u8
 
 #江苏/1个频道
 #EXTINF:-1 tvg-name="无锡新闻" tvg-id="无锡新闻" tvg-logo="" group-title="地方频道", 无锡新闻
-https://stream.thmz.com/wxtv1/playlist.m3u8?_upt=a2814e901717072018
-#EXTINF:-1 tvg-name="无锡新闻" tvg-id="无锡新闻" tvg-logo="" group-title="地方频道", 无锡新闻
-https://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=fa454d821717072017
+http://zv6.ott.mobaibox.com:6060/gitv/live1/G_WXXW/G_WXXW/1.m3u8
 
 #游戏/1个频道
 #EXTINF:-1 tvg-name="LOL" tvg-id="1" tvg-logo="" group-title="游戏", LOL
