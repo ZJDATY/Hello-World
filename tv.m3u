@@ -37,7 +37,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道", CCTV17
 http://223.110.242.150:6610/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17/1.m3u8
 
-#卫视高清/42个频道
+#卫视高清/7个频道
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视高清",湖南卫视
 http://223.110.242.153:6610/jsyd/live1/G_HUNAN-MD/G_HUNAN-MD/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视高清",浙江卫视
@@ -46,12 +46,6 @@ http://223.110.242.133:6610/jsyd/live1/G_ZHEJIANG-MD/G_ZHEJIANG-MD/1.m3u8
 http://223.110.242.152:6610/jsyd/live1/G_JIANGSU-MD/G_JIANGSU-MD/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视高清",东方卫视
 http://223.110.242.197:6610/jsyd/live1/G_DONGFANG-MD/G_DONGFANG-MD/1.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视高清",广东卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/1.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="卫视高清",深圳卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/大湾区卫视.png" group-title="卫视高清",大湾区卫视
-http://117.72.68.25:9930/migu.php?id=dwqws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视高清",北京卫视
 http://223.110.242.134:6610/jsyd/live1/G_BEIJING-MD/G_BEIJING-MD/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视高清",安徽卫视
@@ -110,18 +104,6 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 http://avd.iptviptv.site:9694/hls/1005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际时事",FIFA+
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际时事",CGTN
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际时事",CGTN Documentary
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="国际时事",CGTN Français
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="国际时事",CGTN Русский
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际时事",CGTN Español
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
 
 #湖南/16个频道
 #EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="地方特色",茶频道
@@ -574,9 +556,9 @@ https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
 
 #游戏/1个频道
 #EXTINF:-1 tvg-name="LOL" tvg-id="AVC" tvg-logo="" group-title="游戏", LOL
-https://d1--cn-gotcha204.bilivideo.com/live-bvc/890993/live_7734200_bs_1348183/index.m3u8$LR•IPV4『线路1』
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/890993/live_7734200_bs_1348183/index.m3u8
 #EXTINF:-1 tvg-name="LOL" tvg-id="HEVC" tvg-logo="" group-title="游戏", LOL
-https://d1--cn-gotcha204.bilivideo.com/live-bvc/890993/live_7734200_bs_1348183_prohevc/index.m3u8$LR•IPV4『线路2』
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/890993/live_7734200_bs_1348183_prohevc/index.m3u8
 
 #港澳台/11个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
