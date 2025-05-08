@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml,https://ghfast.top/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml,https://ghfast.top/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #央视/20个频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
@@ -42,7 +42,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
 #地方频道/1个频道
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8K.png" group-title="地方频道",无锡新闻综合
+#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8K.png" group-title="地方频道",无锡新闻综合
 http://zv6.ott.mobaibox.com:6060/gitv/live1/G_WXXW/G_WXXW/1.m3u8
 
 #游戏/1个频道
